@@ -1,0 +1,6 @@
+# Dependencies for Amazon Agent Gatekeeper
+# Python 3.10+ recommended
+
+streamlit>=1.30.0
+pandas>=2.0.0
+pytest>=8.0.0
