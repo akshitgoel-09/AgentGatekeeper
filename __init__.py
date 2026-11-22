@@ -1,1 +1,1 @@
-"""Core package for Amazon Agent Gatekeeper."""
+"""Tests package for Amazon Agent Gatekeeper."""
