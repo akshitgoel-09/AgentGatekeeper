@@ -1,0 +1,31 @@
+{
+  "Agent-Alice": {
+    "agent_id": "Agent-Alice",
+    "role": "Customer Support Specialist",
+    "status": "ACTIVE",
+    "registered_at": "2026-11-20T10:00:00",
+    "revoked_at": null,
+    "revocation_reason": null
+  },
+  "Agent-Bob": {
+    "agent_id": "Agent-Bob",
+    "role": "Fulfillment Assistant",
+    "status": "REVOKED",
+    "registered_at": "2026-11-18T09:30:00",
+    "revoked_at": "2026-11-21T14:15:00"
+  },
+  "Agent-Charlie": {
+    "agent_id": "Agent-Charlie",
+    "role": "Returns & Refunds Coordinator",
+    "status": "ACTIVE",
+    "registered_at": "2026-11-19T11:20:00",
+    "revoked_at": null
+  },
+  "Agent-Diana": {
+    "agent_id": "Agent-Diana",
+    "role": "Senior Order Manager",
+    "status": "ACTIVE",
+    "registered_at": "2026-11-22T08:00:00",
+    "revoked_at": null
+  }
+}
