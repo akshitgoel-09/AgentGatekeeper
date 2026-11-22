@@ -4,8 +4,8 @@
 ---
 
 ## 🎓 Academic Submission Details
-- **Student Name:** `[ENTER YOUR NAME]`
-- **Enrolment Number:** `[ENTER YOUR ENROLMENT NUMBER]`
+- **Student Name:** `[Akshit Goel]`
+- **Enrolment Number:** `[PGD202564658]`
 - **Company:** Amazon (Academic Simulation Prototype)
 - **Project:** Agent Gatekeeper
 - **Academic Year / Semester:** 2026
